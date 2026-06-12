@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{944143F5-E8C3-428A-B3B8-59F09322E083}|Zad3\\Zad3.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\project\\zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{944143F5-E8C3-428A-B3B8-59F09322E083}|Zad3\\Zad3.csproj|solutionrelative:zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A39FA4E-47E8-48B0-BFFD-09507ACF4168}|Zad1\\Zad1.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\project\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A39FA4E-47E8-48B0-BFFD-09507ACF4168}|Zad1\\Zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944143F5-E8C3-428A-B3B8-59F09322E083}|Zad3\\Zad3.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\project\\zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944143F5-E8C3-428A-B3B8-59F09322E083}|Zad3\\Zad3.csproj|solutionrelative:zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80E90383-0872-4DA1-982C-D7F3624A808D}|Zad2\\Zad2.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\project\\zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Project\\Zad3\\Program.cs",
               "RelativeDocumentMoniker": "Zad3\\Program.cs",
               "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Project\\Zad3\\Program.cs",
               "RelativeToolTip": "Zad3\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-10T06:00:15.606Z",
               "EditorCaption": ""
@@ -59,18 +59,17 @@
               "RelativeToolTip": "Zad2\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T05:52:14.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T05:52:14.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Project\\Zad1\\Program.cs",
               "RelativeDocumentMoniker": "Zad1\\Program.cs",
               "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Project\\Zad1\\Program.cs",
               "RelativeToolTip": "Zad1\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-10T05:34:51.128Z",
               "EditorCaption": ""
