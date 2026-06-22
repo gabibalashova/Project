@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad5", "Zad5\Zad5.csproj", "{087E5090-0BA6-4AFB-9F95-A1FB2B2B5C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitStore", "FruitStore\FruitStore.csproj", "{5B019528-4BC2-4EDB-AF6C-47797B192406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatedDate", "ValidatedDate\ValidatedDate.csproj", "{789A5070-A02C-401D-9220-0F5228F994B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087E5090-0BA6-4AFB-9F95-A1FB2B2B5C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087E5090-0BA6-4AFB-9F95-A1FB2B2B5C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087E5090-0BA6-4AFB-9F95-A1FB2B2B5C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087E5090-0BA6-4AFB-9F95-A1FB2B2B5C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B019528-4BC2-4EDB-AF6C-47797B192406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B019528-4BC2-4EDB-AF6C-47797B192406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B019528-4BC2-4EDB-AF6C-47797B192406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B019528-4BC2-4EDB-AF6C-47797B192406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789A5070-A02C-401D-9220-0F5228F994B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789A5070-A02C-401D-9220-0F5228F994B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789A5070-A02C-401D-9220-0F5228F994B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789A5070-A02C-401D-9220-0F5228F994B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C761DF-46D5-4628-8D6B-569765EF4EA1}
+	EndGlobalSection
+EndGlobal

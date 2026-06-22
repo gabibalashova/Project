@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\bin\Debug\net9.0\FruitStore.exe
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\bin\Debug\net9.0\FruitStore.deps.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\bin\Debug\net9.0\FruitStore.runtimeconfig.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\bin\Debug\net9.0\FruitStore.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\bin\Debug\net9.0\FruitStore.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\obj\Debug\net9.0\FruitStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\obj\Debug\net9.0\FruitStore.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\obj\Debug\net9.0\FruitStore.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\obj\Debug\net9.0\FruitStore.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\obj\Debug\net9.0\FruitStore.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\obj\Debug\net9.0\refint\FruitStore.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\obj\Debug\net9.0\FruitStore.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\obj\Debug\net9.0\FruitStore.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\Exercises\FruitStore\obj\Debug\net9.0\ref\FruitStore.dll

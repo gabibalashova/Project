@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{789A5070-A02C-401D-9220-0F5228F994B8}|ValidatedDate\\ValidatedDate.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\exercises\\validateddate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789A5070-A02C-401D-9220-0F5228F994B8}|ValidatedDate\\ValidatedDate.csproj|solutionrelative:validateddate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B019528-4BC2-4EDB-AF6C-47797B192406}|FruitStore\\FruitStore.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\exercises\\fruitstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B019528-4BC2-4EDB-AF6C-47797B192406}|FruitStore\\FruitStore.csproj|solutionrelative:fruitstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087E5090-0BA6-4AFB-9F95-A1FB2B2B5C58}|Zad5\\Zad5.csproj|c:\\users\\1212-1\\documents\\gabriela b. 9a\\exercises\\zad5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087E5090-0BA6-4AFB-9F95-A1FB2B2B5C58}|Zad5\\Zad5.csproj|solutionrelative:zad5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Exercises\\ValidatedDate\\Program.cs",
+              "RelativeDocumentMoniker": "ValidatedDate\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Exercises\\ValidatedDate\\Program.cs",
+              "RelativeToolTip": "ValidatedDate\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:01:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Exercises\\FruitStore\\Program.cs",
+              "RelativeDocumentMoniker": "FruitStore\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Exercises\\FruitStore\\Program.cs",
+              "RelativeToolTip": "FruitStore\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T05:43:12.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Exercises\\Zad5\\Program.cs",
+              "RelativeDocumentMoniker": "Zad5\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-1\\Documents\\Gabriela B. 9A\\Exercises\\Zad5\\Program.cs",
+              "RelativeToolTip": "Zad5\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T05:34:31.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
